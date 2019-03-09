@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1552053224 source:c:\users\kamen\documents\test\oop\main.cpp
+	<iostream>
+	"Person.h"
+
+1552053381 source:c:\users\kamen\documents\test\oop\src\person.cpp
+	"Person.h"
+	"cstring"
+
+1552052930 c:\users\kamen\documents\test\oop\include\person.h
+
