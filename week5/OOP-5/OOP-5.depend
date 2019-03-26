@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1553589887 source:c:\users\kamen\documents\test\oop-5\main.cpp
+	<iostream>
+	"Student.h"
+	"Faculty.h"
+
+1553590072 source:c:\users\kamen\documents\test\oop-5\src\faculty.cpp
+	"Faculty.h"
+
+1553589675 c:\users\kamen\documents\test\oop-5\include\faculty.h
+	"Student.h"
+
+1553588380 c:\users\kamen\documents\test\oop-5\include\student.h
+	<iostream>
+
+1553588594 source:c:\users\kamen\documents\test\oop-5\src\student.cpp
+	"Student.h"
+	<cstring>
+	<iostream>
+
